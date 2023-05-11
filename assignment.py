@@ -37,9 +37,10 @@ else:
 
 daily_wage = hourly_rate * hours_worked
 
-print("Employee Type:", employee_type)
-print("Hours Worked:", hours_worked)
-print("Daily Wage:", daily_wage)
+#pgm 4
+print("welcome")
+
+
 
 
 
