@@ -20,4 +20,7 @@ print("Hours worked:", hours_worked)
 print("Daily wage of employee:", daily_wage)
 
 
+# print
+print("hi")
+
 
