@@ -39,6 +39,8 @@ daily_wage = hourly_rate * hours_worked
 
 #pgm 4
 print ("welcome")
+#pgm5
+print ("hlokl")
 
 
 
