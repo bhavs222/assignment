@@ -22,5 +22,26 @@ print("Daily wage of employee:", daily_wage)
 
 # print
 print("hi")
+#Add Part timeEmployee & Wage
+import random
+
+hourly_rate = 20  
+part_time_hours = 8  
+
+employee_type = random.choice(['Full-time', 'Part-time'])
+
+if employee_type == 'Full-time':
+    hours_worked = 8  
+else:
+    hours_worked = part_time_hours
+
+daily_wage = hourly_rate * hours_worked
+
+print("Employee Type:", employee_type)
+print("Hours Worked:", hours_worked)
+print("Daily Wage:", daily_wage)
+
+
+
 
 
